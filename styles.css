@@ -1,4 +1,17 @@
-/** 
-Theme name: Coastal Foot Center
-Author: Byron Baldwin
-**/
+@font-face { /* declare fonts */
+	font-family: "MuseoLight";
+	src: url("fonts/Museo300-Regular.eot");
+	src: local("Museo 300"), local("Museo-300"),
+		url("fonts/Museo300-Regular.woff") format("woff"),
+        url("fonts/Museo300-Regular.otf") format("opentype"),
+		url("fonts/Museo300-Regular.svg#Museo-300") format("svg");
+		}
+		/* display fonts */
+		.h1 { font: 78px/1 Museo300, Verdana, sans-serif; }
+		h2 { font: 18px/1 Museo300, Verdana, sans-serif; }
+		h3 { font: 14px/1 Museo300, Verdana, sans-serif; }
+    
+
+
+
+
